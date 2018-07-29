@@ -85,4 +85,29 @@ li {
 
 body {
   margin: 0 10%;
+  background-color:red;
+}
+
+h3{font-size: 300%;}
+
+div{border: 10px dotted black;}
+p{color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+h1{color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+h2{color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+h3{color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
+}
+h4{color:green;
+  text-shadow: 2px 2px #ff0000;
+  text-align: center;
 }
